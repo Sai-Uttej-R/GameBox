@@ -1,0 +1,64 @@
+/* Add this to your style.css */
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: linear-gradient(to bottom right, #43cea2, #185a9d);
+    font-family: 'Quicksand', sans-serif;
+    color: #fff;
+}
+
+.container {
+    text-align: center;
+}
+
+.game-container {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px 0;
+}
+
+.choice-container {
+    width: 200px;
+}
+
+.btn {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    font-size: 16px;
+    background-color: #343a40;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+    background-color: #23272b;
+}
+
+#result {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+#scoreboard {
+    font-size: 18px;
+}
+
+#scoreboard span {
+    font-weight: bold;
+}
+
+.text-center {
+    text-align: center;
+}
+#computer-move{
+    margin-left: 3%;
+    padding: 29%;
+}
