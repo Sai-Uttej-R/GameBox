@@ -1,0 +1,62 @@
+/* Add this to your style.css */
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: linear-gradient(to bottom right, #1b24c9, #686cac);
+    font-family: 'Quicksand', sans-serif;
+}
+
+.memory-game {
+    display: grid;
+    grid-template-columns: repeat(4, 100px);
+    gap: 15px;
+    max-width: 450px;
+    margin-top: 20px;
+}
+
+.card {
+    width: 100px;
+    height: 100px;
+    background: #fff;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    cursor: pointer;
+    perspective: 1000px;
+    transform-style: preserve-3d;
+    transition: transform 0.6s cubic-bezier(0.4, 2.5, 0.35, 1);
+}
+
+.card:active,
+.card.flipped {
+    transform: rotateY(180deg);
+}
+
+.card.matched {
+    background: #28a745;
+    color: #fff;
+    cursor: default;
+}
+
+.front,
+.back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    backface-visibility: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+}
+
+.back {
+    transform: rotateY(180deg);
+    background: #181c1f;
+    color: #fff;
+}
