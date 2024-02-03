@@ -8,7 +8,7 @@
 <ul>
     <li><strong><a href="/hangman/index.html">Hangman</a>:</strong> A classic word-guessing game.</li>
     <li><strong><a href="/rock-paper-scissors/index.html">Rock, Paper, Scissors</a>:</strong> The timeless hand game.</li>
-    <li><strong><a href="/index.html">Snake</a>:</strong> A simple snake game with a twist! You can eat</li>
+    <li><strong><a href="/memory-match/index.html">Memory-Match</a>:</strong> A simple game of finding matching pairs of cards</li>
     <li><strong><a href="/tic-tac-toe/index.html">Tic-Tac-Toe</a>:</strong> The Classic X and O.</li>
 </ul> <!-- Add more games as needed -->
 <h2 id="getting-started">Getting Started</h2>
