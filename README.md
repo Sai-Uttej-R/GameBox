@@ -1,34 +1,23 @@
-<h1>GameBox - Simple Web Development Game Projects for Beginners</h1>
+<h1>GameBox - Simple Web Development Projects for Begin</h1>
 
-*Welcome to GameBox,* 
-<p>A collection of simple and engaging web development projects designed for beginners. Explore and enhance your skills with these fun games, and contribute to the growing repository of game collections.</p>
+<p><em>Welcome to GameBox</em></p>
+<p>A collection of simple and engaging development projects designed forinners. Explore enhance your skills with fun
+    games, and to the growing repository game collections.</p>
 
-## Table of Contents
-
-- [Games](#games)
-- [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Games
-
-1. **Hangman**: A classic word-guessing game.
-2. **Rock, Paper, Scissors**: The timeless hand game.
-3. **Snake**: A simple snake game with a twist! You can eat
-4. **Tic-Tac-Toe**: The Classic X and O.
-
-<!-- Add more games as needed -->
-
-## Getting Started
-
-Get started by clicking on the game names above to explore and play. Clone the repository to contribute your own games and improvements.
-
-## Contributing
-
-We welcome contributions! Follow the [contribution guidelines](CONTRIBUTING.md) to submit your changes and help us grow.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE.md). View the [license details](LICENSE.md) for more information.
-
-Happy coding and gaming!
+<h2 id="games">Games</h2>
+<ul>
+    <li><strong><a href="/hangman/index.html">Hangman</a>:</strong> A classic word-guessing game.</li>
+    <li><strong><a href="/rock-paper-scissors/index.html">Rock, Paper, Scissors</a>:</strong> The timeless hand game.</li>
+    <li><strong><a href="/index.html">Snake</a>:</strong> A simple snake game with a twist! You can eat</li>
+    <li><strong><a href="/tic-tac-toe/index.html">Tic-Tac-Toe</a>:</strong> The Classic X and O.</li>
+</ul> <!-- Add more games as needed -->
+<h2 id="getting-started">Getting Started</h2>
+<p>Get started by clicking on the game names above to explore and play. Clone the repository to contribute your own
+    games and improvements.</p>
+<h2 id="contributing">Contributing</h2>
+<p>We welcome contributions! Follow the <a href="CONTRIBUTING.md">contribution guidelines</a> to submit your changes and
+    help us grow.</p>
+<h2 id="license">License</h2>
+<p>This project is licensed under the <a href="LICENSE.md">MIT License</a>. View the <a href="LICENSE.md">license
+        details</a> for more information.</p>
+<p>Happy coding and gaming!</p>
