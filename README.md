@@ -1,4 +1,4 @@
-<h1>GameBox - Simple Web Development Projects for Begin</h1>
+<h1>GameBox - Simple Web Development Projects for Beginners</h1>
 
 <p><em>Welcome to GameBox</em></p>
 <p>A collection of simple and engaging development projects designed forinners. Explore enhance your skills with fun
