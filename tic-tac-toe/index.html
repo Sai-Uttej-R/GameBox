@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
+    <title>Tic Tac Toe</title>
+</head>
+<body>
+    <div class="container">
+        <h1 class="text-center mt-4 mb-4">Tic Tac Toe</h1>
+        <div class="board" id="board">
+            <!-- Cells will be dynamically created here -->
+        </div>
+        <div class="text-center mt-4">
+            <p id="turn">Player X's turn</p>
+        </div>
+        <div id="playerScores" class="text-center mt-4">
+            <p id="playerXScore" class="mr-2">Player X: 0</p>
+            <p id="playerOScore">Player O: 0</p>
+        </div>        
+    </div>
+
+    <!-- Winner Pop-up Modal -->
+    <div id="winnerModal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2>Winner!</h2>
+            </div>
+            <div class="modal-body">
+                <p id="winnerText"></p>
+            </div>
+            <div class="modal-footer">
+                <button id="playAgainBtn">Play Again</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
