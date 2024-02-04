@@ -1,0 +1,49 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: linear-gradient(to right, #ff758c, #ff7eb3);
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .memory-game {
+    display: flex;
+    flex-wrap: wrap;
+    width: 640px;
+    height: 640px;
+  }
+  
+  .memory-card {
+    width: 120px;
+    height: 120px;
+    perspective: 1000px;
+    margin: 10px;
+  }
+  
+  .memory-card img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
+  .front-face {
+    transform: rotateY(0deg);
+    transition: transform 0.6s;
+  }
+  
+  .back-face {
+    transform: rotateY(180deg);
+    background-color: #f8f8f8;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.6s;
+  }
+  
+  .match {
+    background: #66bb6a;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+  }
+  
