@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+/* Add this to App.css */
+.number-guessing-game {
+  text-align: center;
+  margin-top: 50px;
+}
+
+input {
+  padding: 8px;
+  margin-right: 8px;
+}
+
+button {
+  padding: 10px;
+  margin-top: 10px;
+  cursor: pointer;
+}
