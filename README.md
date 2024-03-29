@@ -20,7 +20,31 @@
 <h2 id="contributing">Contributing</h2>
 <p>We welcome contributions! Follow the <a href="CONTRIBUTING.md">contribution guidelines</a> to submit your changes and
     help us grow.</p>
+
+<div>
+<h2>Our Contributors </h2>
+<table>
+<tr>
+    <td align="center">
+        <a href="https://github.com/Sai-Uttej-R">
+            <img src="https://avatars.githubusercontent.com/u/95533451?v=4" width="100;" alt="Sai Uttej R"/>
+            <br />
+            <sub><b>Sai Uttej R</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/sakethvalakatla">
+            <img src="https://avatars.githubusercontent.com/u/144155780?v=4" width="100;" alt="Saketh V"/>
+            <br />
+            <sub><b>Saketh Valakatla</b></sub>
+        </a>
+    </td>
+</tr>
+</div>
+
+<div>
 <h2 id="license">License</h2>
 <p>This project is licensed under the <a href="LICENSE.md">MIT License</a>. View the <a href="LICENSE.md">license
         details</a> for more information.</p>
 <p>Happy coding and gaming!</p>
+</div>
