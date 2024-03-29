@@ -10,6 +10,9 @@
     <li><strong><a href="/rock-paper-scissors/index.html">Rock, Paper, Scissors</a>:</strong> The timeless hand game.</li>
     <li><strong><a href="/memory-match/index.html">Memory-Match</a>:</strong> A simple game of finding matching pairs of cards</li>
     <li><strong><a href="/tic-tac-toe/index.html">Tic-Tac-Toe</a>:</strong> The Classic X and O.</li>
+    <li><strong><a href="/Simon game/index.html">Simon Game</a>:</strong>A classic memory game where players must repeat a sequence of colors</li>
+
+
 </ul> <!-- Add more games as needed -->
 <h2 id="getting-started">Getting Started</h2>
 <p>Get started by clicking on the game names above to explore and play. Clone the repository to contribute your own
