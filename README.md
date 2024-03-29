@@ -17,6 +17,14 @@
 <h2 id="getting-started">Getting Started</h2>
 <p>Get started by clicking on the game names above to explore and play. Clone the repository to contribute your own
     games and improvements.</p>
+    
+<div>
+<h2 id="license">License</h2>
+<p>This project is licensed under the <a href="LICENSE.md">MIT License</a>. View the <a href="LICENSE.md">license
+        details</a> for more information.</p>
+<p>Happy coding and gaming!</p>
+</div>
+
 <h2 id="contributing">Contributing</h2>
 <p>We welcome contributions! Follow the <a href="CONTRIBUTING.md">contribution guidelines</a> to submit your changes and
     help us grow.</p>
@@ -40,11 +48,4 @@
         </a>
     </td>
 </tr>
-</div>
-
-<div>
-<h2 id="license">License</h2>
-<p>This project is licensed under the <a href="LICENSE.md">MIT License</a>. View the <a href="LICENSE.md">license
-        details</a> for more information.</p>
-<p>Happy coding and gaming!</p>
 </div>
